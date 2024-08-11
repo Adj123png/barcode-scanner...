@@ -1,0 +1,5 @@
+barcode-scanner/
+├── index.html
+├── script.js
+├── style.css
+└── records.xlsx
